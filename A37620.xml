@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the ordinances and orders of the Lords and Commons assembled in Parliament for the indempnity or saving harmlesse all those that have acted or done any thing by sea or land by the authority and for the service of the Parliament.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37620</idno>
+            <idno type="STC">Wing E1200A</idno>
+            <idno type="STC">ESTC R26101</idno>
+            <idno type="EEBO-CITATION">09358284</idno>
+            <idno type="OCLC">ocm 09358284</idno>
+            <idno type="VID">42822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42822)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1308:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the ordinances and orders of the Lords and Commons assembled in Parliament for the indempnity or saving harmlesse all those that have acted or done any thing by sea or land by the authority and for the service of the Parliament.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An additionall ordinance ... for the full indempnity of the officers and souldiers" has special t.p.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:42822:1"/>
+                  <pb facs="tcp:42822:1" rendition="simple:additions"/>
+                  <p>All the ORDINANCES AND ORDERS OF THE LORDS and COMMONS Aſſembled in PARLIAMENT, For the Indempnity Or ſaving harmleſſe all thoſe that have Acted or done any thing by Sea or Land, by the Authority and for the Service of the PARLIAMENT.</p>
+                  <p>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="license">
+                              <p>ORdered by the Lords Aſſembled in Parliament, That theſe Ordinances and Orders for Indempnity, be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</p>
+                              <closer>
+                                 <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <p>Imprinted at <hi>London</hi> for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1647.</p>
+               </div>
+            </front>
+            <body>
+               <div n="indemnity at sea" type="ordinance">
+                  <pb facs="tcp:42822:2"/>
+                  <pb n="1" facs="tcp:42822:2"/>
+                  <head>
+                     <date>
+                        <hi>Die Veneris</hi> 21 Maii, 1647.</date> AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT. For the Indempnity, or ſaving harm<g ref="char:EOLhyphen"/>leſſe all thoſe that have acted or done any thing by Sea or Land by Authority of Parliament.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Lords and Commons taking notice, That divers well-affected perſons have beene ſued, indicted, proſecu<g ref="char:EOLhyphen"/>ted, or moleſted, and others are like<g ref="char:EOLhyphen"/>ly to be ſued, indicted, proſecuted or moleſted for ſuch acts and things which they have
+<pb n="2" facs="tcp:42822:3"/> acted and done by Authority of this preſent Parlia<g ref="char:EOLhyphen"/>ment, or for the ſervice and benefit thereof, during theſe late Warres and Troubles, doe hereby Ordaine and Declare, and be it by authority of Parliament Ordained and Declared, That no perſon or perſons whatſoever, who have ſince the beginning of this preſent Parliament acted or done, or commanded to be acted or done, any act or thing whatſoever by authority of this preſent Parliament, or for the ſer<g ref="char:EOLhyphen"/>vice or benefit thereof, by Sea or by Land, ought to be ſued, indicted, proſecuted, or moleſted, for the ſame; and that every ſuch perſon or perſons whatſo<g ref="char:EOLhyphen"/>ever are and ſhall be hereby fully acquitted and diſ<g ref="char:EOLhyphen"/>charged of all Actions, Suits, Indictments, Infor<g ref="char:EOLhyphen"/>mations, Proſecutions, Judgements, Executions, and Moleſtations whatſoever, for or concerning the ſame; and all Judges, Juſtices, Sheriffes, Mayors, Bailiffes, Jurors, Officers, and Miniſters of Juſtice whatſoever are hereby required to take notice thereof, and duly to obſerve the ſame.</p>
+                  <p>And for the eaſe of all ſuch perſons who are or ſhall be ſued, Indicted, Proſecuted or Moleſted for any ſuch Act or thing as is aforeſaid, It is hereby Declared and Ordained, That in every Action, Suit, Indictment, Information, or Proſecution whatſo<g ref="char:EOLhyphen"/>ever, wherein or whereby they ſhall bee ſo ſued, indicted, proſecuted, or moleſted, as is aforeſaid, con<g ref="char:EOLhyphen"/>trary to this Ordinance, It ſhall be lawfull to and for all perſons aforeſaid, their Heires, Executors, Ad<g ref="char:EOLhyphen"/>miniſtrators and Aſſignes, to plead the generall iſſue, that they are not guilty, or any other generall iſſue, as the caſe ſhall require, and ſhall and may give in <pb n="3" facs="tcp:42822:3"/> evidence to the Jury that ſhall try the ſame, That the matter in queſtion was an Act or thing acted or done, or commanded to be acted or done by autho<g ref="char:EOLhyphen"/>rity of this preſent Parliament, or for the ſervice or benefit thereof, which Evidence being proved, ſhall be admitted and allowed by the reſpective Jud<g ref="char:EOLhyphen"/>ges, Judge, or Juſtice, or Juſtices &amp; Jury before whom it ſhall be tried, as ſufficient to maintaine the ſaid generall iſſue: And if the Verdict ſhall paſſe, with the Defendant or Defendants in any Action, Bill, Plaint, or Suit, as is aforeſaid, or the Plaintiffe or Plaintiffs ſhall be nonſuit therein, or ſuffer any diſ<g ref="char:EOLhyphen"/>continuance thereof, the reſpective Judges or Juſti<g ref="char:EOLhyphen"/>ces ſhall award unto the ſaid Defendant or Defend<g ref="char:EOLhyphen"/>ants treble coſts, for which the ſaid Defendant or Defendants ſhall have the like remedy, as in the like Caſes they ought to have by the Lawes of this Realme: And what any Judges, Juſtices, Sheriffes, Mayors, Bayliffes, Jurors, Officers and Miniſters of Juſtice ſhall doe according to this Ordinance, or in purſuance thereof, they ſhall be juſtified and ſaved harmeleſſe by Authority of Parliament for and con<g ref="char:EOLhyphen"/>cerning the ſame.</p>
+                  <p>And becauſe ſuch perſons who have acted or com<g ref="char:EOLhyphen"/>manded to be acted or done any ſuch act or thing, as is aforeſaid, may be poore, and not able to defend a Suit at Common Law, or may finde themſelves agrieved in the proceedings thereof; now for a further and certaine reliefe of all ſuch perſons, It is hereby Ordained and Declared by the Authority aforeſaid, That any ſuch perſons ſo ſued, indicted, proſecuted, or moleſted, as is aforeſaid, may at any time hereafter, when &amp; as often as they ſhall be ſued, <pb n="4" facs="tcp:42822:4"/> indicted, proſecuted or moleſted for any ſuch act or thing, as is aforeſaid, either before or after a tryall at the Common Law, make their complaint to</p>
+                  <p>
+                     <hi>ALgernon</hi> Earle of <hi>Northumberland, Henry</hi> Earle of <hi>Kent, Iohn</hi> Earle of <hi>Rutland, Philip</hi> Earle of
+<hi>Pembroke</hi> and <hi>Montgomery, Theophilus</hi> Earle of <hi>Lin<g ref="char:EOLhyphen"/>colne, Charles</hi> Earle of <hi>Nottingham, James</hi> Earle of <hi>Suffolke, William</hi> Earle of <hi>Salisbury, Robert</hi> Earle of <hi>Warwicke, Bazell</hi> Earle of <hi>Denbigh, James</hi> Earle of <hi>Middleſex, Edward</hi> Earle of <hi>Mancheſter, Edmond</hi> Earle of <hi>Mulgrave, Henry</hi> Earle of <hi>Stamford, Walter</hi> Lord Viſcount <hi>Hereford, William</hi> Lord Viſcount <hi>Say</hi> and <hi>Seale, Charles</hi> Lord
+<hi>De-la-War, George</hi> Lord <hi>Berkley, Philip</hi> Lord <hi>Wharton, Francis</hi> Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby, Dudley</hi> Lord <hi>North, John</hi> Lord
+<hi>Hunſdon, Wil<g ref="char:EOLhyphen"/>liam</hi> Lord <hi>Grey</hi> of <hi>Warke, John</hi> Lord
+<hi>Robartes, Edward</hi> Lord <hi>Howard</hi> of <hi>Eſc. Thomas</hi> Lord
+<hi>Bruce,</hi> Members of the Houſe of Peeres.</p>
+                  <p>Maſter <hi>Holles,</hi> Colonell <hi>Birch,</hi> Maſter
+<hi>Swynfen,</hi> Maſter <hi>Maynard,</hi> Maſter <hi>Bois,</hi> Colonell
+<hi>Purefey,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Harvey,</hi> Maſter Recorder, Maſter Solicitor, Sir <hi>Philip Stapleton,</hi> Colonell <hi>Morley,</hi> Sir
+<hi>William Allenſon,</hi> Colonell <hi>Maſſey,</hi> Maſter
+<hi>Whitlocke,</hi> Sir <hi>Gil<g ref="char:EOLhyphen"/>bert Gerrard,</hi> Sir <hi>William Waller,</hi> Maſter <hi>Edwards,</hi> Maſter <hi>Challener,</hi> Lieutenant Generall
+<hi>Cromwell,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Tate,</hi> Sir <hi>William Maſſam,</hi> Sir <hi>Samuel Luke,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Liſle,</hi> Field Marſhall
+<hi>Skippon,</hi> Maſter <hi>Francis Al<g ref="char:EOLhyphen"/>len,</hi> Colonell <hi>Walton,</hi> Maſter <hi>Rigby,</hi> Sir <hi>John May<g ref="char:EOLhyphen"/>nard,</hi> Maſter <hi>Selden,</hi> Maſter <hi>Gott,</hi> Sir <hi>William Brere<g ref="char:EOLhyphen"/>ton,</hi> Maſter
+<hi>Grimſton,</hi> Maſter <hi>Darley,</hi> Maſter <hi>Dove,</hi> Sir
+<hi>John Bampfield,</hi> Lord <hi>Menſon,</hi> Sir <hi>Michael Liveſey,</hi> Sir <hi>Thomas Widdrington,</hi> Sir <hi>Arthur Haſilrig,</hi> Maſter <pb n="5" facs="tcp:42822:4"/>
+                     <hi>Bainton,</hi> Maſter <hi>Necholas,</hi> Maſter
+<hi>Weaver,</hi> Maſter <hi>Na<g ref="char:EOLhyphen"/>thaniel Fiennes,</hi> Colonell
+<hi>Rainsborough,</hi> Major <hi>Har<g ref="char:EOLhyphen"/>riſon,</hi> Maſter <hi>Walter Long,</hi> Maſter <hi>Hallowes,</hi> Maſter <hi>Myles Corbet,</hi> Colonell
+<hi>Tompſon,</hi> Maſter <hi>Drake,</hi> Sir <hi>Thomas Middleton,</hi> Maſter <hi>William Pierpoint,</hi> Mem<g ref="char:EOLhyphen"/>bers of the Houſe of Commons, or any five of them, who are hereby conſtituted a Committee of Parlia<g ref="char:EOLhyphen"/>ment, for the releife of all ſuch perſons, in ſuch caſes as is aforeſaid. And the ſaid Committee, or any five of them, are hereby authorized and required, to receive, heare, and determine ſuch aforeſaid Com<g ref="char:EOLhyphen"/>plaints; and to that end to examine Witneſſes up<g ref="char:EOLhyphen"/>on Oath; and to commit to ſafe cuſtody (if they ſhall ſee cauſe) all ſuch perſon or perſons, who ſhall ſo ſue, indict, proſecute, or moleſt, any perſon or perſons whatſoever, for acting or doing any ſuch Act or thing, as is aforeſaid; And alſo to order and award to every ſuch perſon or perſons ſo ſued, in<g ref="char:EOLhyphen"/>dicted, proſecuted, or moleſted, treble ſo much as they ſhall make appeare to the ſaid Committee, that they have been dampnified by any ſuch Suit, In<g ref="char:EOLhyphen"/>dictment, Proſecution, or Moleſtation, as is afore<g ref="char:EOLhyphen"/>ſaid, if they have not before recovered the ſame by the proceedings at Common Law, according to this Ordinance. And that when the ſaid Committee, or any five of them, ſhall have made any Order or Award, in ſuch aforeſaid caſes reſpectively, that the ſaid perſon or perſons ought not to be ſued, indicted, proſecuted, or moleſted, for ſuch Act or thing re<g ref="char:EOLhyphen"/>ſpectively, then upon ſhewing the ſaid Order or Award to the Solicitors, Atturnies, or Counſellors of the party or parties ſo ſuing, indicting, proſecuting, <pb n="6" facs="tcp:42822:5"/> or moleſting, as is aforeſaid, the ſaid Solicitors, At<g ref="char:EOLhyphen"/>turnies, and Counſellors, ſhall preſently forbeare to proſecute, or aſſiſt, counſell, or adviſe the ſaid Party or Parties to ſue, indict, or proſecute any further, for ſuch Act or thing reſpectively: And that if thereup<g ref="char:EOLhyphen"/>on, they ſhall not forbeare ſo to do, the ſaid Commit<g ref="char:EOLhyphen"/>tee, or any five of them, are hereby authorized and required, to commit to ſafe cuſtody any ſuch Solici<g ref="char:EOLhyphen"/>tors, Atturnies, or Counſellors, ſo offending as is aforeſaid, if they ſhall ſee cauſe.</p>
+                  <p>Provided alwaies that this Ordinance, nor any thing herein contained, ſhall not extend to diſcharge any ſuch perſon or perſons aforeſaid, who have acted, or done, or commanded to be acted or done, any Act or thing by Authority of this preſent Parlia<g ref="char:EOLhyphen"/>ment, or for the Service or benefit thereof, from making their true and juſt Accompts to any Com<g ref="char:EOLhyphen"/>miſſioners or Committee of Parliament, appointed or to be appointed for that purpoſe, of what they have taken, received, or had, for the Service and be<g ref="char:EOLhyphen"/>nefit of the Parliament, as is aforeſaid.</p>
+                  <closer>
+                     <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:42822:5"/>
+                  <p>AN ADDITIONALL ORDINANCE OF THE LORDS and COMMONS Aſſembled in the PARLIAMENT OF ENGLAND, For the more full Indempnity of the Officers and Souldiers who have acted by Authority, and for the ſervice of the PARLIAMENT.</p>
+                  <p>And alſo enabling a Committee for In<g ref="char:EOLhyphen"/>dempnity in the County of KENT, to put the ſaid Ordinances in execution.</p>
+                  <p>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="license">
+                              <p>ORdered by the Lords Aſſembled in Parliament, That theſe Ordinances be forthwith printed and publiſhed.</p>
+                              <closer>
+                                 <signed>Jo. Brown Cler. Parliamentorum.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <p>Imprinted at London for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1647.</p>
+               </div>
+            </front>
+            <body>
+               <div n="indemnity for Parliamentary officers and soldiers" type="ordinances">
+                  <pb facs="tcp:42822:6"/>
+                  <pb n="9" facs="tcp:42822:6"/>
+                  <head>
+                     <date>
+                        <hi>Die Lunae.</hi> 7. <hi>Junii.</hi> 1647.</date> An additionall Ordinance of the Lords and Commons aſſembled in the Parliament of <hi>England,</hi> for the more full indempnity of the Officers and Souldi<g ref="char:EOLhyphen"/>ers who have acted by Authority and for the ſervice of the Parliament.</head>
+                  <p>
+                     <seg rend="decorInit">F</seg>Oraſmuch as in the times of this late Warre, and publike diſtractions there have been many injuries done to private perſons and other offences Committed by divers perſons bearing Armes in the ſervice of the Parliament, The Lords and Commons in Parliament aſſembled taking in<g ref="char:EOLhyphen"/>to their Conſideration, That it is expedient that the injuries and offences aforeſaid be pardoned &amp; put in Oblivion rather than by pretence of proſecuti<g ref="char:EOLhyphen"/>on againſt ſome few perſons, a great number of ſuch who have faithfully ſerved the Parliament be brought into a continuall vexation for ſuch <pb n="10" facs="tcp:42822:7"/> Actions as the exigencie of Warre hath neceſſita<g ref="char:EOLhyphen"/>ted them unto, Do therefore Ordaine, and be it Ordained by the ſaid Lords and Commons, That all perſons who have committed any offences, treſpaſſes, injuries, or other miſdemeanors what<g ref="char:EOLhyphen"/>ſoever, during ſuch time as they have been em<g ref="char:EOLhyphen"/>ployed in Armes, by or for the ſervice of the Par<g ref="char:EOLhyphen"/>liament, be, is, and are hereby diſcharged and par<g ref="char:EOLhyphen"/>doned of the ſame, and off and from all proſecu<g ref="char:EOLhyphen"/>tion or damages therefore, either at the Suit of the King or the party grieved, and may in caſe he or they be queſtioned therefore, plead the gene<g ref="char:EOLhyphen"/>rall Iſſue, and give this Ordinance in evidence, which ſhall be allowed to all intents and purpoſes as if the ſame were pleaded in Barre. And in caſe any ſhall proſecute any Action or Suit con<g ref="char:EOLhyphen"/>trary to the Tenour of this Ordinance, againſt any perſon hereby diſcharged, after notice given that ſuch perſon is hereby diſcharged, the defendant or defendants ſo proſecuted ſhall recover his and their coſt againſt ſuch Proſecutor.</p>
+                  <p>Provided alſo that this Ordinance nor any thing herein contained, ſhall extend to diſcharge any ſuch perſon or perſons as aforeſaid from making their true and juſt Accompts to any Committee or Committees of Parliament appointed or to be appointed for that purpoſe, of what they have ta<g ref="char:EOLhyphen"/>ken, received, or had, for the ſervice or benefit of the Parliament.</p>
+                  <closer>
+                     <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+               </div>
+               <div n="indemnity for Sir Thomas Fairfax's officers and soldiers"
+                    type="ordinance">
+                  <pb n="11" facs="tcp:42822:7"/>
+                  <head>
+                     <date>Die Sabbathi, <hi>19</hi> Iunii.
+<hi>1647.</hi>
+                     </date>
+                  </head>
+                  <p>THe Lords and Commons in Parliament having well accepted the obedience and readineſſe of thoſe Officers and Souldiers who have complied with their Orders, have Ordered and Ordained, and by Authority aforeſaid do Order and Ordaine, That all and eve<g ref="char:EOLhyphen"/>ry the ſaid Officers and Souldiers aforeſaid, ſhall be freed, exonerated, acquitted, and diſcharged, and are in and hereby declared and adjudged from henceforth to be free, exonerate, acquit, and diſ<g ref="char:EOLhyphen"/>charged of and from all and whatſoever proſecuti<g ref="char:EOLhyphen"/>on, judgement of life or member, paines, penal<g ref="char:EOLhyphen"/>ties, and puniſhments whatſoever incurred, or that ſhall, may, or can, might, could, ſhould, or ought to be inflicted, proſecuted, had, or purſued againſt them or any of them, for or by reaſon of the ſaid pretended offence or offences of their departure from their ſaid Colours, or from under the Com<g ref="char:EOLhyphen"/>mand of the ſaid Sir <hi>Thomas Fairfax,</hi> or from or under the command of any Military Officer or Of<g ref="char:EOLhyphen"/>ficers under him whatſoever.</p>
+                  <closer>
+                     <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+               </div>
+               <div n="apprentices' freedoms" type="ordinance">
+                  <pb n="12" facs="tcp:42822:8"/>
+                  <head>
+                     <date>
+                        <hi>Die Veneris,</hi> 24 <hi>Decemb.</hi>
+1647.</date> An Ordinance giving power to the Committee of Indempnity, to put in Execution the Ordinances concerning Apprentices Freedomes.</head>
+                  <p>BE it Ordered and Ordained by the Lords and Commons Aſſembled in Parliament, That power be given to the Committee for Indempnity, to put in execution the ſeverall Ordinances con<g ref="char:EOLhyphen"/>cerning Apprentices Freedomes that have ſerved the Parliament in this late Warre, and to receive all complaints made upon them, and to give Redreſſe to the party grieved, and to allow Coſts, Charges, and Damages, as they ſhall ſee cauſe, accord<g ref="char:EOLhyphen"/>ing to the power given them, in caſes of Indempnity.</p>
+                  <closer>
+                     <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+               </div>
+               <div n="Kent indemnity committee" type="ordinance">
+                  <pb n="13" facs="tcp:42822:8"/>
+                  <head>
+                     <date>
+                        <hi>Die Iovis</hi> 20. <hi>Ianuarii</hi> 1647</date> An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, For enabling a Committee in the County of <hi>Kent</hi> to put in execu<g ref="char:EOLhyphen"/>tion all former Ordinances of Parliament con<g ref="char:EOLhyphen"/>cerning Indempnity.</head>
+                  <p>THe Lords and Commons Aſſembled in Parliament, having by an Ordinance of Parliament of the one and twentieth day of <hi>May,</hi> 1647. And by an Additionall Ordinance of the ſeventh day of <hi>June</hi> laſt, provided for the ſaving harmleſſe and indempnified all ſuch Soul<g ref="char:EOLhyphen"/>diers and others, as have acted by the Authority of Parliament, or for the ſervice thereof. And finding by ſeverall complaints made to them, that it is a great charge and trouble to very many poore Souldiers and others, to whom a due reliefe is intended by the ſaid Ordinances, to make their repaires to the City of <hi>London,</hi> and to attend the Committee of Lords and Commons appointed by the ſaid Ordinances for the exe<g ref="char:EOLhyphen"/>cution thereof; The ſaid Lords and Commons, in conſideration thereof, have thought fit to Or<g ref="char:EOLhyphen"/>der and Ordaine; And is hereby Ordered and Ordained, That Sir <hi>John Rivers</hi> Knight and Ba<g ref="char:EOLhyphen"/>ronet, <pb n="14" facs="tcp:42822:9"/> and Sir <hi>Edward Moyns,</hi> Sir <hi>Thomas Style,</hi> Sir
+<hi>Richard Harders,</hi> Sir <hi>Thomas Peirce</hi> Baronets, Sir <hi>Anthony Welden,</hi> Sir <hi>John Honywood,</hi> Sir <hi>Nic<g ref="char:EOLhyphen"/>holas Miller</hi> Knights,
+<hi>Thomas Plumer, Iohn Twe<g ref="char:EOLhyphen"/>ſleton, Lambert Godfry, Richard Porter, George Newman, Thomas Seylard, William Iames, Richard Beale, Iohn Brown, William Skenner, William Boothby, William Kenwrick George Hall, Iohn Bix</hi>
+                     <abbr>Eſq</abbr> 
+                     <hi>Iohn Boys</hi> of Elminton, <hi>Robert Scot, Tho<g ref="char:EOLhyphen"/>mas Blunt,</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Robert Hales</hi> 
+                     <abbr>Eſq</abbr> Sir
+<hi>Edward Maſters</hi> Knight, <hi>Thomas Denne, Robert Ladd, Iohn Nutts</hi> 
+                     <abbr>Eſq</abbr> Sir <hi>Iames Oxinden</hi> Knight, <hi>Tho<g ref="char:EOLhyphen"/>mas Broadnex, Iohn Holland, Thomas Boys</hi> of Wilsbourgh <abbr>Eſq</abbr>
+                     <hi>George Duke</hi> 
+                     <abbr>Eſq</abbr> Be and are hereby appointed to be a Committee for the County of <hi>Kent,</hi> for the putting in execution the ſeverall Powers contained in the ſaid Ordi<g ref="char:EOLhyphen"/>nances. And the ſaid perſons, or any five or more of them within the County aforeſaid, are here<g ref="char:EOLhyphen"/>by authorized and appointed to take care from time to time duely to execute and performe the Powers given by the ſaid Ordinances, as by the ſame is expreſſed and Ordained.</p>
+                  <closer>
+                     <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+                  <pb facs="tcp:42822:9"/>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
